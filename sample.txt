@@ -1,6 +1,0 @@
-LICENSE
-README.md
-sample.txt
-LICENSE
-README.md
-sample.txt
